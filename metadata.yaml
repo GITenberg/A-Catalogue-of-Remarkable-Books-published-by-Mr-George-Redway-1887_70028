@@ -1,0 +1,30 @@
+_repo: A-Catalogue-of-Remarkable-Books-published-by-Mr-George-Redway-1887_70028
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Waite, Arthur Edward
+    alias: Waite, A. E. (Arthur Edward)
+    birthdate: 1857
+    deathdate: 1942
+    gutenberg_agent_id: '9806'
+    url: http://www.gutenberg.org/2009/agents/9806
+    wikipedia: https://en.wikipedia.org/wiki/A._E._Waite
+description: ''
+gutenberg_issued: '2023-02-12'
+identifiers:
+  gutenberg: '70028'
+language: en
+pgterms:marc904: https://archive.org/details/livesofalchemyst1888wait
+pgterms:marc905: 20200606091139waite
+pgterms:marc906: '1888'
+production_note: deaurider, PrimeNumber and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $bGeorge Redway, $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Catalogue of Remarkable Books published by Mr. George Redway (1887)
+url: http://www.gutenberg.org/ebooks/70028
